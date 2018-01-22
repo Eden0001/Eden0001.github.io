@@ -1,7 +1,7 @@
 # Site settings
 title: Eden's Blog
 SEOTitle: 冉鑫的博客 | Eden
-header-img: img/post-bg-desk.jpg
+header-img: img/banner.jpg
 email: 1019765812@qq.com
 description: "try more lead to success"
 keyword: "Eden, BY Blog, 冉鑫的博客 , 冉鑫"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Eden0001/Eden0001.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "You are going to be what you think most!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Eden.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
